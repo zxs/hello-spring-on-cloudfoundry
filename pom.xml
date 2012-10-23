@@ -18,14 +18,14 @@
 	<dependencies>
 
 		<dependency>
-			<groupId>com.foxconn.gds.sce</groupId>
+			<groupId>org.zxs</groupId>
 			<artifactId>webhdfs-java-client</artifactId>
 			<version>0.0.2</version>
 		</dependency>
 		<!-- CloudFoundry -->
 		<dependency>
 			<groupId>org.cloudfoundry</groupId>
-			<artifactId>com.foxconn.cloudfoundry-runtime</artifactId>
+			<artifactId>cloudfoundry-runtime</artifactId>
 			<version>${org.cloudfoundry-version}</version>
 		</dependency>
 		<dependency>
